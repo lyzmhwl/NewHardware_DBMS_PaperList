@@ -2,9 +2,22 @@
 + The Yin and Yang of Processing Data Warehousing Queries on GPU Devices(VLDBE 2013)
 
 ## GDBMS Survey
-+ GPU数据库核心技术综述(软件学报 2021)
++ GPU数据库核心技术综述 裴威，李战怀，潘巍(软件学报 2021)
 + GPU-accelerated Database Systems Survey and Open Challenges(LNCS 2014)
-+ aaa
++ Johns Paul, Bingsheng He, Shengliang Lu, Chiew Tong Lau:Revisiting hash join on graphics processors: a decade later. Distributed Parallel Databases 38(4): 771-793 (2020)
++ Iya Arefyeva, David Broneske, Gabriel Campero Durand, Marcus Pinnecke, Gunter Saake:Memory Management Strategies in CPU/GPU Database Systems: A Survey. BDAS 2018: 128-142
++ Brenton Lessley, Hank Childs:Data-Parallel Hashing Techniques for GPU Architectures. IEEE Trans. Parallel Distributed Syst. 31(1): 237-250 (2020)
++ Makoto Yabuta, Anh Nguyen, Shinpei Kato, Masato Edahiro, Hideyuki Kawashima:Relational Joins on GPUs: A Closer Look. IEEE Trans. Parallel Distributed Syst. 28(9): 2663-2673 (2017)
++ Sparsh Mittal:A Survey of Techniques for Architecting and Managing GPU Register File. IEEE Trans. Parallel Distributed Syst. 28(1): 16-28 (2017)
++ Cagri Balkesen, Gustavo Alonso, Jens Teubner, M. Tamer Özsu:Multi-Core, Main-Memory Joins: Sort vs. Hash Revisited. Proc. VLDB Endow. 7(1): 85-96 (2013)
++ Ran Rui, Hao Li, Yi-Cheng Tu:Join algorithms on GPUs: A revisit after seven years. IEEE BigData 2015: 2541-2550
++ Jiong He, Mian Lu, Bingsheng He:Revisiting Co-Processing for Hash Joins on the Coupled CPU-GPU Architecture. Proc. VLDB Endow. 6(10): 889-900 (2013)
++ Wenbin Fang, Bingsheng He, Qiong Luo:Database Compression on Graphics Processors. Proc. VLDB Endow. 3(1): 670-680 (2010)
++ Daniel J. Abadi, Daniel S. Myers, David J. DeWitt, Samuel Madden:Materialization Strategies in a Column-Oriented DBMS. ICDE 2007: 466-475
++ Tim Kaldewey, Guy M. Lohman, René Müller, Peter Benjamin Volk:GPU join processing revisited. DaMoN 2012: 55-62
++ Stratos Idreos, Fabian Groffen, Niels Nes, Stefan Manegold, K. Sjoerd Mullender, Martin L. Kersten:MonetDB: Two Decades of Research in Column-oriented Database Architectures. IEEE Data Eng. Bull. 35(1): 40-45 (2012)
++ Sebastian Breß, Max Heimel, Norbert Siegmund, Ladjel Bellatreche, Gunter Saake:GPU-Accelerated Database Systems: Survey and Open Challenges. Trans. Large Scale Data Knowl. Centered Syst. 15: 1-35 (2014)
++ Yi-Cheng Tu, Anand Kumar, Di Yu, Ran Rui, Ryan Wheeler:Data management systems on GPUs: promises and challenges. SSDBM 2013: 33:1-33:4
 
 ## Query Engine
 + GPL A GPU-based pipelined query processing engine(SIGMOD 2016)
