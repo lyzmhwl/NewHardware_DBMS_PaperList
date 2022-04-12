@@ -4,6 +4,7 @@
 ## GDBMS Survey
 + GPU数据库核心技术综述(软件学报 2021)
 + GPU-accelerated Database Systems Survey and Open Challenges(LNCS 2014)
++ aaa
 
 ## Query Engine
 + GPL A GPU-based pipelined query processing engine(SIGMOD 2016)
